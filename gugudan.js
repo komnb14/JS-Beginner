@@ -10,9 +10,9 @@ while(true)
     }
     alert('첫글자가 다릅니다.')
 } */
-        let num1 = Math.floor(Math.random()*9) + 1
-        let num2 = Math.floor(Math.random()*9) + 1
-        let result = num1 * num2
+ let num1 = Math.floor(Math.random()*9) + 1
+ let num2 = Math.floor(Math.random()*9) + 1
+ let result = num1 * num2
 while(true)
 {
         
